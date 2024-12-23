@@ -95,17 +95,17 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Fine-Tuning LLMs for Test Stimuli Generation
+      - title: "Fine-Tuning LLMs for Test Stimuli Generation"
         link: "To be submitted"
         authors: Hyeonwoo Park, Seonghyeon Park, Seokhyeong Kang
         conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
         
-      - title: Improving LLM-based Verilog Code Generation with Data Augmentation and RL
+      - title: "Improving LLM-based Verilog Code Generation with Data Augmentation and RL"
         link: "#"
         authors: Kyungjun Min, Seonghyeon Park, Hyeonwoo Park, Jinoh Cho and Seokhyeong Kang
         conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
 
-     - title: "VeriLogos: Automatic Verilog RTL Generation using Large Language Models "
+     - title: "VeriLogos: Automatic Verilog RTL Generation using Large Language Models"
         link: "#"
         authors: Kyungjun Min, Seonghyeon Park, Hyeonwoo Park, Seokhyeong Kang
         conference: 21th International SoC Design Conference (ISOCC), 2024
