@@ -90,6 +90,10 @@ projects:
         link:
         tagline: "Construction of Artificial Designs with Generative AI Models."
 
+      - title: BAUM
+        link:
+        tagline: "Constrained Testbench Generation with Power State Machine Using LLM."
+
 
 publications:
     title: Publications
