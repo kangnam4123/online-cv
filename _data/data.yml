@@ -93,7 +93,7 @@ publications:
 #    intro: |
 #     You can list your publications in this section.
     papers:
-      - title: "Fine-Tuning LLMs for Test Stimuli Generation"
+      - title: "Fine-Tuning LLMs for Test Stimuli Generation(To be submitted)"
         link: To be submitted
         authors: Hyeonwoo Park, Seonghyeon Park, Seokhyeong Kang
         conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
