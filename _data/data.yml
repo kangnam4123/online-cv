@@ -93,23 +93,23 @@ publications:
     intro: |
      You can list your publications in this section.
     papers:
-          - title: "Fine-Tuning LLMs for Test Stimuli Generation"
-            link: "To be submitted"
+          - title: Fine-Tuning LLMs for Test Stimuli Generation
+            link: To be submitted
             authors: Hyeonwoo Park, Seonghyeon Park, Seokhyeong Kang
             conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
             
-          - title: "Improving LLM-based Verilog Code Generation with Data Augmentation and RL"
-            link: "#"
+          - title: Improving LLM-based Verilog Code Generation with Data Augmentation and RL
+            link: #
             authors: Kyungjun Min, Seonghyeon Park, Hyeonwoo Park, Jinoh Cho and Seokhyeong Kang
             conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
     
-         - title: "VeriLogos: Automatic Verilog RTL Generation using Large Language Models"
-            link: "#"
+         - title: VeriLogos: Automatic Verilog RTL Generation using Large Language Models
+            link: #
             authors: Kyungjun Min, Seonghyeon Park, Hyeonwoo Park, Seokhyeong Kang
             conference: 21th International SoC Design Conference (ISOCC), 2024
             
-         - title: "One-stage Global Placement Using Clustering Based Initial Placement"
-            link: "#"
+         - title: One-stage Global Placement Using Clustering Based Initial Placement
+            link: #
             authors: Hyeonwoo Park, Seokhyeong Kang
             conference: The 30th Korean Conference on Semiconductors (KCS), 2024
 
