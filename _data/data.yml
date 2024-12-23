@@ -92,7 +92,7 @@ publications:
     title: Publications
     intro: |
      You can list your publications in this section.
-    papers:
+papers:
       - title: "Fine-Tuning LLMs for Test Stimuli Generation"
         link: "To be submitted"
         authors: Hyeonwoo Park, Seonghyeon Park, Seokhyeong Kang
