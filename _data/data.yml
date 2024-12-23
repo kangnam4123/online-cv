@@ -91,9 +91,7 @@ projects:
 publications:
     title: Publications
     intro: |
-     You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+     You can list your publications in this section.
     papers:
       - title: "Fine-Tuning LLMs for Test Stimuli Generation"
         link: "To be submitted"
@@ -114,11 +112,6 @@ publications:
         link: "#"
         authors: Hyeonwoo Park, Seokhyeong Kang
         conference: The 30th Korean Conference on Semiconductors (KCS), 2024
-
-#    - title: A syntax directed compiler for Algol 60
-#       link: "#"
-#       authors: Edgar T. Irons
-#       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
