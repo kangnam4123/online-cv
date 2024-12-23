@@ -95,15 +95,25 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
+        - title: Fine-Tuning LLMs for Test Stimuli Generation
+        link: "To be submitted"
+        authors: Hyeonwoo Park, Seonghyeon Park, Seokhyeong Kang
+        conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
+        
+      - title: Improving LLM-based Verilog Code Generation with Data Augmentation and RL
+        link: "#"
+        authors: Kyungjun Min, Seonghyeon Park, Hyeonwoo Park, Jinoh Cho and Seokhyeong Kang
+        conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
 
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     - title: "VeriLogos: Automatic Verilog RTL Generation using Large Language Models "
+        link: "#"
+        authors: Kyungjun Min, Seonghyeon Park, Hyeonwoo Park, Seokhyeong Kang
+        conference: 21th International SoC Design Conference (ISOCC), 2024
+        
+     - title: "One-stage Global Placement Using Clustering Based Initial Placement"
+        link: "#"
+        authors: Hyeonwoo Park, Seokhyeong Kang
+        conference: The 30th Korean Conference on Semiconductors (KCS), 2024
 
 #    - title: A syntax directed compiler for Algol 60
 #       link: "#"
