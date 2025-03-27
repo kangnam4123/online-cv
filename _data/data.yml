@@ -68,6 +68,13 @@ education:
       details: |
        
 experiences:
+    - role: Samsung DS Internship Program
+      time: December 2024 - Feburary 2025
+      company: Design Technology, Samsung Memory business, Dongtan
+      details: |
+        - RAG with LLM for Verilog generation
+        - Fine-tuning LLM
+        
     - role: SK hynix Internship Program
       time: December 2021 - January 2021
       company: SoC Analog IP, Sk Hynix, Bundang
@@ -100,10 +107,10 @@ publications:
 #    intro: |
 #     You can list your publications in this section.
     papers:
-      - title: "Fine-Tuning LLMs for Test Stimuli Generation(To be submitted)"
-        link: To be submitted
+      - title: "Fine-Tuning LLMs for Test Stimuli Generation"
+        link: "#"
         authors: Hyeonwoo Park, Seonghyeon Park, Seokhyeong Kang
-        conference: 2025 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)
+        conference: 2025 IEEE/ACM Design, Design Automation Conference (DAC)
             
       - title: "Improving LLM-based Verilog Code Generation with Data Augmentation and RL"
         link: "#"
